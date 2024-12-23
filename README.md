@@ -26,6 +26,7 @@ pip install wandb==0.18.0
     - Model : checkpoint 24, 48, 72, meta-llama/Llama-3.2-3B-Instruct, Qwen/Qwen2.5-3B-Instruct, LGAI-EXAONE/EXAONE-3.5-2.4B-Instruct
     - csatqa, haerae, kobest (dropped - kmmlu : too big, kbl : legal, kormedmcqa : medical)
 ```
+cd script
 bash harness_all_eval.sh
 ```
 
@@ -44,5 +45,6 @@ pip install vllm openai
     ```
 
 ```
+cd script
 bash logic_all_eval.sh
 ```
