@@ -1,0 +1,5 @@
+output/
+harness_output/
+slurm-*.out
+LogicKor/
+lm-evaluation-harness/
