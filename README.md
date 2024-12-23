@@ -1,4 +1,12 @@
 # Akallama-eval
+## Eval task
+| task | description | link |
+|---|------|------|
+| csatqa | Tasks related to SAT and other standardized testing questions for academic assessment. |	|
+| haerae | Tasks focused on assessing detailed factual and historical knowledge. | https://github.com/EleutherAI/lm-evaluation-harness/blob/main/lm_eval/tasks/haerae/README.md |
+| kobest | A collection of tasks designed to evaluate understanding in Korean language.	|	https://github.com/EleutherAI/lm-evaluation-harness/blob/main/lm_eval/tasks/kobest/README.md |
+| LogicKor | 한국어 언어모델 다분야 사고력 벤치마크 | https://github.com/instructkr/LogicKor |
+
 ## Result
 [doc link](https://docs.google.com/spreadsheets/d/1OEK7lBX7c6KW8QdFfYUD5RkjL9FiUcK3iSoKLaSGHws/edit?gid=0#gid=0)
 
